@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Master Shake",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/7/71/Shake.png/revision/latest?cb=20111113195407"
+  },
+  {
+    "id": 2,
+    "name": "Marcula",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/a/a7/Markula.png/revision/latest/scale-to-width-down/270?cb=20180711172944"
+  },
+  {
+    "id": 3,
+    "name": "Meatwad",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/parody/images/c/cc/No-2018-03-18%2C.png/revision/latest/scale-to-width-down/180?cb=20180319094601"
+  },
+  {
+    "id": 4,
+    "name": "MC Pee Pants",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/8/8f/MC_Pee_Pants.png/revision/latest/scale-to-width-down/200?cb=20180711180608"
+  },
+  {
+    "id": 5,
+    "name": "Frylock",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/c/cd/AthfFrylock2.png/revision/latest/scale-to-width-down/250?cb=20101230022228"
+  },
+  {
+    "id": 6,
+    "name": "Mothmonsterman",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/c/c9/Mothmonsterman.png/revision/latest/scale-to-width-down/250?cb=20180228034800"
+  },
+  {
+    "id": 7,
+    "name": "Carl",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/7/71/Carl.png/revision/latest?cb=20140108162838"
+  },
+  {
+    "id": 8,
+    "name": "Ol' Drippy",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/2/2d/Ol%27_Drippy.png/revision/latest/scale-to-width-down/250?cb=20180228035448"
+  },
+  {
+    "id": 9,
+    "name": "Err",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/2/2a/Cartoons_ATHF-err.gif/revision/latest?cb=20080701182004"
+  },
+  {
+    "id": 10,
+    "name": "Rabbot",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/5/52/Rabbot.png/revision/latest/scale-to-width-down/250?cb=20110203032626"
+  },
+  {
+    "id": 11,
+    "name": "Paul",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/0/00/Paul.png/revision/latest/scale-to-width-down/220?cb=20180711180149"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Weird",
+    "clicked": false,
+    "image": "https://vignette.wikia.nocookie.net/athfwiki/images/1/15/Dr._Weird.png/revision/latest/scale-to-width-down/135?cb=20160403014629"
+  }
+]
