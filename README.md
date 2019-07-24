@@ -1,7 +1,7 @@
 # ATHF Memory Clicky Game!
 ___
 
-In this project, we were asked to create a clicky/memory match game using React.  Other technologies used for the site were JavaScript, jQuery, Node JS and a GitHub repository.  The basis of the game was themed after the tv show "Aqua Teen Hunger Force", and shows 12 different characters on the screen.  When the user clicks on each character, a point is added to their score and the characters shuffle on the screen, then however, when they click on the same character again, the game is over.  If the user is able to beat the top score, then the top score will be updated with their new score.  A screenshot to the game is provided below:
+In this application, we were asked to create a clicky/memory match game using React.  Other technologies used for the site were JavaScript, jQuery, Node JS and a GitHub repository.  The basis of the game was themed after the tv show "Aqua Teen Hunger Force", and shows 12 different characters on the screen.  When the user clicks on each character, a point is added to their score and the characters shuffle on the screen, then however, when they click on the same character again, the game is over.  If the user is able to beat the top score, then the top score will be updated with their new score.  A screenshot to the game is provided below:
 ___
 ![ATHF-clicky-game](/src/images/ATHF-clicky-game.jpg)
 ___
