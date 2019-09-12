@@ -1,4 +1,4 @@
-# ATHF Memory Clicky Game!
+# 'ATHF' Memory Clicky React Game!
 ___
 
 In this game/application, we were asked to create a single page memory clicky match game using only React framework.  Other technologies also utilized for the game were JavaScript, jQuery, Node JS and a GitHub repository for the hosting.  The basis of the game was themed after the tv show "Aqua Teen Hunger Force", and shows 12 different characters from the show on the screen.  When the user clicks on a single character, a point is added to their score and the characters shuffle on the screen, but then however, when they click on the same character again, the game is over and the score is tallied.  If the user is able to beat the top score, then the top score is updated with their new score.  A screenshot to the start of the game is provided below:
